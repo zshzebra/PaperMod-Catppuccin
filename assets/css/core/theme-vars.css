@@ -9,14 +9,14 @@
 
     /* Latte (light theme) colors */
     --theme: rgb(239, 241, 245); /* Base */
-    --entry: rgb(255, 251, 247); /* Surface */
+    --entry: rgb(230, 233, 239); /* Mantle */
     --primary: rgb(76, 79, 105); /* Text */
-    --secondary: rgb(147, 153, 178); /* Subtext0 */
-    --tertiary: rgb(214, 219, 235); /* Overlay0 */
-    --content: rgb(60, 64, 88); /* Surface2 */
-    --code-block-bg: rgb(24, 24, 37); /* Lavender */
-    --code-bg: rgb(24, 24, 37); /* Base */
-    --border: rgb(205, 214, 244); /* Overlay1 */
+    --secondary: rgb(108, 111, 133); /* Subtext0 */
+    --tertiary: rgb(140, 143, 161); /* Overlay0 */
+    --content: rgb(92, 95, 119); /* Subtext0 */
+    --code-block-bg: rgb(24, 24, 37); /* Mantle (Mocha) */
+    --code-bg: rgb(239, 241, 245); /* Base */
+    --border: rgb(140, 143, 161); /* Overlay1 */
 }
 
 .dark {
@@ -27,8 +27,8 @@
     --secondary: rgb(166, 173, 186); /* Subtext0 */
     --tertiary: rgb(82, 87, 110); /* Overlay0 */
     --content: rgb(198, 208, 245); /* Surface2 */
-    --code-block-bg: rgb(24, 24, 37); /* Lavender */
-    --code-bg: rgb(24, 24, 37); /* Base */
+    --code-block-bg: rgb(24, 24, 37); /* Mantle */
+    --code-bg: rgb(30, 30, 46); /* Base */
     --border: rgb(62, 66, 83); /* Overlay1 */
 }
 
